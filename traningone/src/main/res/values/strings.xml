@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">traningOne</string>
+    <string name="title_activity_act__basic">ACT_Basic</string>
+    <string name="title_activity_act__three">ACT_Three</string>
+</resources>

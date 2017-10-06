@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "399668236209",
+    "firebase_url": "https://rzkotlin.firebaseio.com",
+    "project_id": "rzkotlin",
+    "storage_bucket": "rzkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399668236209:android:84e582eb407321ec",
+        "android_client_info": {
+          "package_name": "kodigo.rzgonz.id.traningtwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399668236209-o4i78so5jogvr430vtv4sok92l2u4dtm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kodigo.rzgonz.id.traningtwo",
+            "certificate_hash": "a3f1b3bef550375ba0f7c59491a5662b91695ee6"
+          }
+        },
+        {
+          "client_id": "399668236209-ccv8cke046s68f486fiefj1vs2q2ljbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCedm9EGiaD6Yf47Et93Z3jZkg2wl66FU8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399668236209-ccv8cke046s68f486fiefj1vs2q2ljbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
